@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://redmoddigital.com/sitemap.xml
